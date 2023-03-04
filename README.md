@@ -31,7 +31,7 @@ gostaria de ver as seguintes métricas de crescimento:
 5. A avaliação média e o desvio padrão por condições climáticas.
 6. Os 10 entregadores mais rápidos por cidade.
 7. Os 10 entregadores mais lentos por cidade.
-## Do lado do restaurantes:
+## Do lado do restaurante:
 1. A quantidade de entregadores únicos.
 2. A distância média dos resturantes e dos locais de entrega.
 3. O tempo médio e o desvio padrão de entrega por cidade.
