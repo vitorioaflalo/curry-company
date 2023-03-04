@@ -1,4 +1,4 @@
-# Problema de Negócio
+# 1.0 Problema de Negócio
 A Cury Company é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas.
 
 Através desse aplicativo, é possível realizar o pedido de uma refeição, em qualquer restaurante cadastrado, e recebê-lo no conforto da sua casa por um entregador
@@ -37,5 +37,10 @@ pessoas compradoras. Para acompanhar o crescimento desses negócios, o CEO gosta
 6. O tempo médio de entrega durantes os Festivais.
 O seu primeiro objetivo como Cientista de Dados é criar um conjunto de gráficos e/ou
 tabelas que exibam essas métricas da melhor forma possível para o CEO.
+
+# 2.0 Premissas assumidas na análise
+1. A análise foi feita com datas entre 11/02/2022 e 06/04/2022
+2. Marketplace foi o modelo de negócio assumido
+3. As três principais visões de negócio: empresa, entregador e restaurante
 
 ## Link para dashboard do projeto: https://vitorioaflalo-curry-company.streamlit.app/
